@@ -1,0 +1,24 @@
+rose	Rose	100
+carnation	Carnation	50
+gerbera	Gerbera	10
+chrysanthemum	Chrysanthemum	100
+tulip	Tulip	50
+gladioli	Gladioli	10
+lilie	Lilie	50
+alstroemeria	Alstroemeria	10
+anthurium	Anthurium	100
+amaryllis	Amaryllis	50
+birds_of_paradise	Birds of Paradise	10
+calla_lily	Calla Lily	100
+gardenias	Gardenias	50
+lilacs	Lilacs	10
+lily_of_the_valley	Lily of the valley	50
+miniature_calla_lily	Miniature Calla Lily	10
+oriental_lily	Oriental Lily	100
+heliconia_pendula	Heliconia Pendula	50
+musas	Musas	10
+calatheas	Calatheas	50
+gingers	Gingers	10
+palms	Palms	100
+orchids	Orchids	50
+lotus	Lotus	100
